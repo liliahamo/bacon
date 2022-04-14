@@ -1,0 +1,52 @@
+body {
+  background-color: #E15FED;
+}
+h1{
+  color: #2D31FA;
+}
+h2 {
+  color: #00FFDD;
+}
+img:hover{
+  background-color: #E15FED;
+}
+.bacon{
+  padding: 5px;
+}
+.pink {
+  background-color: #2ADACF;
+  position: fixed;
+  top: 1px;
+  left: 1px;
+}
+
+.pinkd {
+  background-color: #F2FA5A;
+  position: fixed;
+  top: 1px;
+  right: 1px;
+}
+
+.biz {
+  background-color: #F900BF;
+  position: fixed;
+  bottom: 1px;
+  top: 430;
+  left: 1px;
+}
+
+.yellow {
+  background-color: #7370EE;
+  position: fixed;
+  bottom: 1px;
+  left: 480px;
+
+}
+
+.green {
+  background-color: #FFAC30;
+  position: fixed;
+  bottom: 1px;
+  right: 1px;
+  top: 430;
+}
